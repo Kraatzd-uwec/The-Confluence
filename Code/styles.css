@@ -212,5 +212,5 @@ h2{
     display: flex;
     justify-content: space-between;
     margin: 200px;
-    margin-top: none;
+    margin-top: 0px;
 }
